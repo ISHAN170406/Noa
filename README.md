@@ -381,10 +381,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support & Community
 
-- **📧 Email**: support@noa-companion.com
-- **💬 Discord**: [Join our community](https://discord.gg/noa-companion)
-- **📖 Wiki**: [Documentation and tutorials](https://github.com/your-username/noa-companion-bot/wiki)
-- **🐛 Issues**: [Report bugs](https://github.com/your-username/noa-companion-bot/issues)
+- **📧 Email**: avigupta2001ad@gmail.com
 
 ---
 
@@ -396,6 +393,5 @@ Start with the basic setup and gradually add modules to create a truly personali
 
 **From simple conversations to complex smart home automation, from basic interactions to advanced memory retention - Noa adapts to become exactly what you need.** 🤖✨
 
-[Get Started](https://github.com/your-username/noa-companion-bot/wiki/Quick-Start) | [Documentation](https://github.com/your-username/noa-companion-bot/wiki) | [Community](https://discord.gg/noa-companion)
 
 </div>
